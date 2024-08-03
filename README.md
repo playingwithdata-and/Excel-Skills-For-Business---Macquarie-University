@@ -76,11 +76,11 @@ Become an Excel expert by mastering advanced functions, data analysis, and dashb
 
 ## Certificates
 
-1. [Essentials](https://www.coursera.org/account/accomplishments/verify/897HC2Z74LFW)
-2. [Intermediate - I](https://www.coursera.org/account/accomplishments/verify/ZBP5B65WTJCR)
-3. [Intermediate - II](https://www.coursera.org/account/accomplishments/verify/W5ZNBZT52DME)
-4. [Advanced](https://www.coursera.org/account/accomplishments/verify/M2URRAJ8TCGR)
-5. [Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/SY4QD6RK62TQ)
+1. [Essentials](https://coursera.org/share/3321406056210b9d0ea9a62b8d88c5ea)
+2. [Intermediate - I](https://www.coursera.org/account/accomplishments/certificate/NUUAK9NKX83F)
+3. [Intermediate - II](https://coursera.org/share/bec1b0d95d5371ae1b54afee120c0770)
+4. [Advanced](https://coursera.org/share/1b5a22bfaaf69486e1a751704f8cfeba)
+5. [Specialization Certificate](https://coursera.org/share/33422d1076af80e4c12f61e843b19ee1)
 
 ---
 
@@ -91,5 +91,3 @@ This repository is intended for educational purposes only. Please use the soluti
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). 
 
 ---
-
-Feel free to customize this further to reflect your personal touch and any additional information you want to include.
