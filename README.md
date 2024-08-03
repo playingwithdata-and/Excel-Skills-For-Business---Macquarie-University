@@ -1,10 +1,4 @@
-# Excel-Skills-For-Business---Macquarie-University
-Here's a revised version of the README for your repository, ensuring originality and clarity:
-
----
-
-<p align="center"><img width="auto" src="https://example.com/path/to/image.jpg" alt="Excel Skills For Business" /></p>
-
+# Excel-Skills-For-Business-Macquarie-University
 ---
 
 # [Excel Skills For Business Specialization - Macquarie University](https://www.coursera.org/specializations/excel)
